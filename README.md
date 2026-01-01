@@ -28,3 +28,6 @@ Technologies Used
 
 Acknowledgements
   - This project was completed as part of my role as a Teaching Assistant under Professor Michael Witt at Purdue University. The work was done to enhance the search and recommendation functionality of Re3data.org, a global registry of research data repositories. I would like to thank Professor Witt for his guidance and support throughout the project.
+  - This research project was a significant learning milestone for me. To ensure the code was robust and easy to verify, I chose to develop it in Google Colab. This allowed me to segment and test individual components of the recommendation engine modularly before final integration.
+    - Learning & Debugging: I utilized Google Gemini (integrated within Colab) to help me grasp the underlying mathematics of TF-IDF and Cosine Similarity, to name a few. Gemini served as a real-time tutor for debugging and refining my data science workflow.
+    - Documentation for Others: I have intentionally added very detailed descriptions and comments within the code itself. My goal was to make the logic transparent so that others can easily understand the process and to provide a clear reference for my own future research.
